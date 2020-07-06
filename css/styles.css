@@ -1,0 +1,172 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Slabo 27px', serif;
+  color: #1d1919;
+}
+
+
+.top-container {
+  background-color: #FFBCBC;
+  position: relative;
+  padding-top: 80px;
+}
+
+h1 {
+  margin: 50px auto 0;
+  width: 50%;
+  font-family: 'Tangerine', cursive;
+  font-size: 562.5%;
+  color: #f54291;
+}
+
+h2 {
+  font-family: 'Concert One', cursive;
+  font-size: 2rem;
+  margin-top: 0;
+  color: #f54291;
+  padding: 30px;
+}
+
+h3 {
+  font-family: 'Concert One', cursive;
+  color: #f76a8c;
+}
+
+a {
+  color: #f76a8c;
+  text-decoration: none;
+  font-family: 'Slabo 27px', serif;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+.middle-container {
+
+  background-color: #ffe8df
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+p {
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #ffb0cd;
+  padding: 40px;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 25%;
+  top:8%;
+  width: 10%;
+}
+.bottom-cloud {
+  position: absolute;
+  bottom:55.25%;
+  left:20.75%;
+  width: 10%;
+}
+
+span {
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.history-pic {
+  width: 25%;
+  margin-right: 20px;
+  float: left;
+}
+
+.melody-pic {
+  width: 25%;
+  margin-left: 20px;
+  float: right;
+}
+
+.profile-pic {
+  width: 10%;
+  border-radius: 50%
+}
+
+hr {
+  border-color: gray;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-weight: normal;
+  font-size: 13px;
+}
+
+.contact-me {
+  margin: 40px auto 40px auto;
+}
+
+.cont {
+  width: 30%;
+  margin: 0 auto 30PX;
+}
+
+.footer-link {
+  margin-right: 20px;
+}
+
+.BUTTON_TEY {
+  background: #FFBCBC;
+  background-image: -webkit-linear-gradient(top, #FFBCBC, #NANFB0C);
+  background-image: -moz-linear-gradient(top, #FFBCBC, #NANFB0C);
+  background-image: -ms-linear-gradient(top, #FFBCBC, #NANFB0C);
+  background-image: -o-linear-gradient(top, #FFBCBC, #NANFB0C);
+  background-image: linear-gradient(to bottom, #FFBCBC, #NANFB0C);
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  color: #FFFFFF;
+  font-family: 'Concert One', cursive;
+  font-size: 21px;
+  font-weight: 100;
+  padding: 10px;
+  box-shadow: 1px 1px 20px 0px #FFFFFF;
+  -webkit-box-shadow: 1px 1px 20px 0px #FFFFFF;
+  -moz-box-shadow: 1px 1px 20px 0px #FFFFFF;
+  text-shadow: 0px 0px 0px #FFFFFF;
+  border: solid #FFBCBC 0px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_TEY:hover {
+  border: solid #337FED 0px;
+  background: #EFA1A1;
+  background-image: -webkit-linear-gradient(top, #EFA1A1, #ED8D8D);
+  background-image: -moz-linear-gradient(top, #EFA1A1, #ED8D8D);
+  background-image: -ms-linear-gradient(top, #EFA1A1, #ED8D8D);
+  background-image: -o-linear-gradient(top, #EFA1A1, #ED8D8D);
+  background-image: linear-gradient(to bottom, #EFA1A1, #ED8D8D);
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  text-decoration: none;
+}
